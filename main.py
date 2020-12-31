@@ -14,7 +14,7 @@ from contextlib import ExitStack
 # comet_ml now fails to initialize if any torch module
 # is loaded before it... so make sure it's loaded first
 # pylint:disable=unused-import
-import comet_ml
+# import comet_ml
 # pylint:enable=unused-import
 
 import torch
@@ -26,7 +26,7 @@ from models.utils import restore
 from utils import profile
 
 # import comet_ml in the top of your file
-from comet_ml import Experiment
+# from comet_ml import Experiment
     
 # Add the following code anywhere in your machine learning file
 

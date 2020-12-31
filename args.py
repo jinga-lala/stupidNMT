@@ -7,7 +7,7 @@ import os
 import time
 from types import SimpleNamespace
 
-from comet_ml import Experiment, ExistingExperiment
+# from comet_ml import Experiment, ExistingExperiment
 import torch
 
 from data import DATASETS

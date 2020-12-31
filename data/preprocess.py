@@ -11,9 +11,9 @@ from collections import Counter
 from multiprocessing import Pool
 from contextlib import ExitStack
 
-# pylint:disable=no-name-in-module
+pylint:disable=no-name-in-module
 from preshed.counter import PreshCounter
-# pylint:enable=no-name-in-module
+pylint:enable=no-name-in-module
 from subword_nmt.learn_bpe import learn_bpe as _learn_bpe
 from subword_nmt.apply_bpe import BPE as _BPE
 from tqdm import tqdm

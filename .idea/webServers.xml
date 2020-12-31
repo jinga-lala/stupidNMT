@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="18041960-64be-4bbe-9d5f-68bc6da1978d" name="beeoutside (project level)">
+        <fileTransfer rootFolder="/mnt/b100/d0/yashjain" accessType="SFTP" host="localhost" port="6000" sshConfigId="1f1a2cb3-f1c9-485f-b8ad-a85354afa4ca" sshConfig="beeoutside" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

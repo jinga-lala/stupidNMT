@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="login.iitb.ac.in:10.129.125.54" id="0ba5f4f8-4324-481c-ad4a-d6ed6600f041" keyPath="$USER_HOME$/.ssh/id_rsa" port="5022" nameFormat="DESCRIPTIVE" username="yashjain" />
+    </configs>
+  </component>
+</project>
